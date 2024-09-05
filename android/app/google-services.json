@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165789069613",
+    "project_id": "providertutorial-f733b",
+    "storage_bucket": "providertutorial-f733b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165789069613:android:4bad92738ae2ad3fb3a3a4",
+        "android_client_info": {
+          "package_name": "com.example.provider_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvbwLFRpzCiEO9OoGhzE93PFrogJ8RUOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
